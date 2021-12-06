@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ycsfitness",
+    "slug": "ycsfitness",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ycsfitness"
+}
